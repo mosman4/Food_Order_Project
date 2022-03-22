@@ -2,7 +2,11 @@
   list-style: none;
   margin: 0;
   padding: 0;
+<<<<<<< HEAD
   max-height: 7rem;
+=======
+  max-height: 20rem;
+>>>>>>> 5392b99 (Initial commit)
   overflow: auto;
 }
 

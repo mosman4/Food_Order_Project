@@ -53,7 +53,10 @@ const Cart = (props) => {
         }
         orderHandler({Name, Street,PostalCode,City})
         setConfirm(true)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 5392b99 (Initial commit)
     }
 
     const {isLoading, error, fetchMeals} = useFetch();
